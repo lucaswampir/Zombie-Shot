@@ -1,5 +1,5 @@
 # A small game where you shoot zombies with the mouse. have fun.
-## Game is only **for windows** (launch to exe file "Zombie shot")
+## Game is only *for windows* (launch to exe file "Zombie shot")
 
 
 - Hra je jednoduchá
