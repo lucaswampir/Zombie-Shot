@@ -2,10 +2,10 @@
 ## Game is only *for windows* (launch to exe file "Zombie shot")
 
 
-- game is very simple
-- low hardware requirements
+- Game is very simple
+- Low hardware requirements
 - Is gratis
-- written in python and library pygame, random .
+- Written in python and library pygame, random .
 
 If you liked this small project, you can support me at the Donate link    [![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/wampirlucas)
 
